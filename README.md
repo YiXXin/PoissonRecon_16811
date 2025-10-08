@@ -1,4 +1,5 @@
-# PoissonRecon-in-Python
+# PoissonRecon
+Teamwork: Yixin Fei, Kaihua Chen
 
 ### Poisson Problem
 
